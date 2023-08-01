@@ -1,1 +1,2 @@
 # TATA-Virtual-Intern-Dashboard
+I have created a dashboard which helps to analyse the trends and the breakdown by different categories so that we get the clarity on how the revenue is being generated and what are the main factors affecting the online store. Company can understand different factors such as Revenue in each country and the quantity of products in different countries. This is helpful for future retail stores expansions.
